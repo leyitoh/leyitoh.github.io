@@ -2530,3 +2530,7 @@ body.is-touch .poptrox-popup .closer {
     padding-left: 0;
   }
 }/*# sourceMappingURL=main.css.map */
+
+section, section * {
+  color: #1A2540 !important;
+}
